@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallet Compose</string>
+    <string name="company_name">Wpay</string>
+    <string name="fastest_payment">Fastest Payment</string>
+    <string name="btn_next">Next</string>
+    <string name="message_qr_code_onbording">QR code scanning technologies makes you payment process more faster
+    </string>
+    <string name="btn_skip">Skip</string>
+</resources>
